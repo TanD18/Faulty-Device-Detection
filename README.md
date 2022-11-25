@@ -7,7 +7,7 @@
 Four vibration sensors attached at different locations of a machine is collecting information
 consecutively. The machine is run in two states: Healthy and Faulty state. The task for us is to create a
 model that can classify continuous data from the four sensors of the machine, whether the machine is in
-Healthy or Faulty state.
+Healthy or Faulty state. The inference time should be less than 10 miliseconds, for realtime prediction.
 
 
 
