@@ -1,5 +1,5 @@
 
-# ML Assignment
+# Detection of Faulty Device State
 
 ## Problem Description
 
